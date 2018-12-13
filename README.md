@@ -6,4 +6,5 @@ Aprendizados de HTML5
   <li>Tags reservadas</li>
   <li>Canvas</li>
   <li>Web Works</li>
+  <li>XMLHttpRequest</li>
  </ul>
